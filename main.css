@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 1400px;
+  height: 900px;
+  border: 1px solid;
+  margin: 0 auto;
+}
+.top {
+  display: flex;
+  width: 100%;
+  height: 20%;
+  border: 1px solid;
+}
+.t-left {
+  width: 30%;
+  height: 100%;
+  border: 1px solid;
+}
+.t-right {
+  width: 70%;
+  height: 100%;
+  border: 1px solid;
+}
+.middle {
+  display: flex;
+  width: 100%;
+  height: 40%;
+  border: 1px solid;
+}
+.m-left {
+  display: flex;
+  width: 40%;
+  height: 100%;
+  border: 1px solid;
+}
+.m-right {
+  width: 60%;
+  height: 100%;
+  border: 1px solid;
+}
+.ml-left {
+  width: 50%;
+  height: 50%;
+  border: 1px solid;
+}
+.ml-right {
+  width: 50%;
+  height: 50%;
+  border: 1px solid;
+}
+.mlr-top {
+  width: 100%;
+  height: 50%;
+  border: 1px solid;
+}
+.mlr-bottom {
+  width: 100%;
+  height: 50%;
+  border: 1px solid;
+}
+.bottom {
+  display: flex;
+  width: 100%;
+  height: 40%;
+  border: 1px solid;
+}
+.b-left {
+  width: 40%;
+  height: 100%;
+  border: 1px solid;
+}
+.b-right {
+  width: 60%;
+  height: 100%;
+  border: 1px solid;
+}
+.br-top {
+  width: 100%;
+  height: 60%;
+  border: 1px solid;
+}
+.br-bottom {
+  width: 50%;
+  height: 40%;
+  border: 1px solid;
+}
+.brb-top {
+  width: 100%;
+  height: 50%;
+  border: 1px solid;
+}
+.brb-bottom {
+  width: 60%;
+  height: 50%;
+  border: 1px solid;
+}
